@@ -2,46 +2,46 @@ Titanic Survival Prediction
 
 📌 Project Description
 
-This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
+This project uses Machine Learning to predict whether a passenger survived the Titanic disaster.
+The dataset is preprocessed, features are engineered, and a Logistic Regression model is used for prediction.
 
-📊 Dataset
+👨‍👨‍👦 Team Members
 
-The dataset used in this project is the Titanic dataset, which contains information about passengers such as age, gender, ticket class, fare, and survival status.
+Member 1:
+
+Name: Niranjan Kalloli
+Enrollment No: 2503031240162
+Roll No: 54
+Role: Coding & Model Development
+
+Member 2:
+
+Name: Kalmesh Alkhnoore
+Enrollment No: 2503031240176
+Roll No: 59
+Role: Documentation & README File
 
 ⚙️ Technologies Used
 
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Scikit-learn
 
-🔧 Steps Involved
+📊 Steps Performed
 
 1. Data Loading
-2. Data Cleaning and Preprocessing
-3. Handling Missing Values
-4. Feature Engineering
-5. Data Encoding
-6. Model Building using Logistic Regression
-7. Model Evaluation
+2. Data Cleaning
+3. Feature Engineering
+4. Data Encoding
+5. Model Training (Logistic Regression)
+6. Model Evaluation
 
-📈 Model Used
+✅ Result
 
-Logistic Regression is used to classify whether a passenger survived or not.
-
-✅ Results
-
-The model achieved good accuracy with proper evaluation using:
-
-- Accuracy Score
-- Confusion Matrix
-- Classification Report
+The model achieved good accuracy in predicting survival using Logistic Regression.
 
 🧠 Conclusion
 
-This project demonstrates how machine learning can be used for classification problems. The model successfully predicts survival based on passenger data.
-
-👨‍👨‍👦 Team Members
-
-- Niranjan Kalloli
-- Kalmesh Alkhnoore
+Machine Learning can effectively predict survival outcomes using historical data.
+This project demonstrates data preprocessing, model training, and evaluation.
